@@ -3,6 +3,8 @@
 
 Welcome to our project for IFT 533: Data Visualization & Reporting for IT. This project involves the implementation of interactive Tableau dashboards based on a simulated dataset of consumer shopping trends. The dashboards aim to uncover insights into customer demographics, purchasing behavior, seasonal trends, and more.
 
+![Screenshot 2025-04-24 185113](https://github.com/user-attachments/assets/f97f2144-26af-4371-bd80-87293060ea79)
+
 ## 📊 Project Overview
 
 This project includes **three interactive Tableau dashboards**, each targeting a different aspect of customer behavior and business operations:
